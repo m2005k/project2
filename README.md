@@ -2,4 +2,4 @@
 
 This project was created from local system.
 
-Created by mandeep kaur.
+Created by Mandeep kaur.
